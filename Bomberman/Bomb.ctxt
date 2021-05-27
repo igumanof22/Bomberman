@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=radius
+comment0.target=Bomb(int)
+comment0.text=\r\n\ The\ contuctor\ for\ a\ bomb.\ \ Required\ the\ radius\ of\ the\ explosion\r\n\ \r\n\ @param\ radius\ This\ controls\ the\ radius\ of\ the\ explosion\ (by\ cell)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PlayerOne\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ explode()
+comment2.text=\r\nThis\ method\ creates\ an\ explosion\ in\ the\ world\r\n\r\n
+comment3.params=x\ y
+comment3.target=boolean\ canMove(int,\ int)
+comment3.text=This\ method\ sees\ if\ an\ object\ can\ be\ added\ at\ the\ specified\ location\r\n\r\n@param\ x\ The\ X\ coordinate\ to\ be\ checked\r\n@param\ y\ The\ Y\ coordinate\ to\ be\ checked\r\n\r\n@return\ True\ if\ an\ object\ can\ be\ placed\ there,\ false\ otherwise.\r\n
+comment4.params=x\ y
+comment4.target=boolean\ objectAt(int,\ int)
+comment4.text=\r\n\ This\ method\ determines\ if\ there\ is\ an\ object\ at\ the\ specified\ location\r\n\ \r\n@param\ x\ The\ X\ coordinate\ to\ be\ checked\r\n@param\ y\ The\ Y\ coordinate\ to\ be\ checked\r\n\r\n@return\ True\ if\ an\ object\ is\ present,\ false\ otherwise.\r\n
+comment5.params=
+comment5.target=boolean\ isExploded()
+numComments=6

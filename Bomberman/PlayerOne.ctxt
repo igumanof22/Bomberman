@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlayerOne()
+comment0.text=\r\n\ The\ default\ constructor\ for\ PlayerOne\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PlayerOne\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ upgradeBombNumber()
+comment2.text=\r\n\ Upgrades\ the\ number\ of\ bombs\ the\ player\ is\ allowed\ to\ drop\r\n
+comment3.params=
+comment3.target=void\ upgradeBombRadius()
+comment3.text=\r\n\ Upgrades\ the\ radius\ of\ the\ bombs\ the\ player\ drops\r\n
+comment4.params=
+comment4.target=void\ upgradeSpeed()
+comment4.text=\r\n\ Upgrades\ the\ speed\ of\ the\ player\r\n
+numComments=5

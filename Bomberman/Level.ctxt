@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level.\r\n\ \r\n
+comment1.params=
+comment1.target=int\ getScale()
+comment1.text=\r\n\ Gets\ the\ current\ scale\ of\ the\ world\r\n\ \r\n\ @return\ An\ int\ value\ for\ the\ scale\ of\ the\ world\ (how\ many\ pixels\ per\ cell)\r\n
+numComments=2

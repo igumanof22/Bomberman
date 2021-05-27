@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=boolean\ canMove(int,\ int)
+comment0.text=\r\n\ This\ method\ determines\ if\ the\ Bomberman\ can\ move\ to\ the\ location\ of\ x\ and\ y.\r\n\ \r\n\ @param\ x\ The\ x\ coordinate\r\n\ @param\ y\ The\ y\ oordinate\r\n\ @return\ Returns\ true\ if\ the\ space\ is\ available,\ and\ false\ otherwise.\r\n
+comment1.params=
+comment1.target=void\ firstActCheck()
+comment1.text=\r\n\ This\ void\ method\ is\ used\ by\ all\ Bombermen\ in\ their\ FIRST\ act,\ and\ their\ first\ act\ ONLY.\ \ It\ determines\ if\ the\r\n\ world\ immediately\ around\ the\ player\ (a\ radius\ of\ 2)\ is\ set\ up\ in\ a\ way\ that\ they\ player\ can\ actually\ participate\r\n\ in\ the\ game.\ \ The\ changes\ will\ not\ occur\ until\ the\ first\ act\ has\ passed.\r\n
+comment2.params=
+comment2.target=void\ upgradeBombNumber()
+comment2.text=\r\n\ Upgrades\ the\ number\ of\ bombs\ that\ the\ player\ is\ allowed\ to\ drop\r\n
+comment3.params=
+comment3.target=void\ upgradeBombRadius()
+comment3.text=\r\n\ Upgrades\ the\ radius\ of\ the\ bombs\r\n
+comment4.params=
+comment4.target=void\ upgradeSpeed()
+comment4.text=\r\n\ Upgrades\ the\ speed\ of\ the\ player\r\n
+numComments=5
